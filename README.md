@@ -1,4 +1,4 @@
-
+![Kapak Fotoğrafı](hrimagine.jpg)
 #  Employee Attrition Intelligence System
 
 Bu proje, bir şirketteki çalışanların işten ayrılma (Attrition) nedenlerini analiz etmek ve makine öğrenmesi modelleri ile ayrılma riski olan çalışanları önceden tahmin etmek amacıyla geliştirilmiştir.
