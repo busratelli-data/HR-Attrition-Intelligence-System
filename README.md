@@ -2,7 +2,6 @@
   <img src="hrimagine.png" width="100%">
 </p>
 
-# 📊 Employee Attrition Intelligence System
 
 
 
