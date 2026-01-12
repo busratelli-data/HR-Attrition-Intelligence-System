@@ -1,6 +1,6 @@
-images/
- └─ hrimagine.png
+hrimagine.png
 README.md
+
 
 
 
