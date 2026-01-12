@@ -5,6 +5,28 @@
 
 
 
+##  Veri Mühendisliği ve Analiz
+
+###  Korelasyon Isı Haritası
+Değişkenlerin birbirleriyle ve işten ayrılma durumuyla olan ilişkisini buradan görebilirsiniz:
+<p align="center">
+  <img src="korelasonısıharitasıgüncel.png" width="90%">
+</p>
+
+### 📈 Hangi Faktörler İstifayı Tetikliyor? (Feature Importance)
+Modelimiz karar verirken en çok bu faktörlere dikkat ediyor:
+<p align="center">
+  <img src="featureimportances.png" width="80%">
+</p>
+
+##  Model Performansı
+
+###  Tahmin Başarı Tablosu (Confusion Matrix)
+Modelin gerçek ve tahmini sonuçlar arasındaki başarısını gösteren matris:
+<p align="center">
+  <img src="modeltahminbaşarıtablosu.png" width="60%">
+</p>
+
 
 
 #  Employee Attrition Intelligence System
