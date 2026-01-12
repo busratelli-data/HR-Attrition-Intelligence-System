@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="hrimagine.jpg" width="100%" />
-</p>
-
-
-
 
 #  Employee Attrition Intelligence System
 
