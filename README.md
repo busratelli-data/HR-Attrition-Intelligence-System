@@ -1,3 +1,9 @@
+images/
+ └─ hrimagine.png
+README.md
+
+
+
 
 #  Employee Attrition Intelligence System
 
